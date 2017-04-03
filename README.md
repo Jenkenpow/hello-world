@@ -1,2 +1,4 @@
 # hello-world
-step 1. create a repository
+Hello.
+I program, therefore I am.
+JenKenPow
